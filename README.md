@@ -1,4 +1,4 @@
-# pokedex1
+# pokedex
 
 ## Project setup
 ```
