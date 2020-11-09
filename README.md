@@ -1,5 +1,11 @@
 # pokedex
 
+## Missing features:
+-testing
+-pagination
+-multilang
+-stats graph
+
 ## Project setup
 ```
 npm install
